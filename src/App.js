@@ -4,7 +4,9 @@ import Me from './components/Me';
 
 function App() {
   return (
-    <Me />
+    <>
+      <Me />
+    </>
   );
 }
 
